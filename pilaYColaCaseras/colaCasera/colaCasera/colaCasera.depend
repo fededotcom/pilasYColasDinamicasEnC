@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652482582 source:c:\users\usuario\desktop\todo\universidad\tareas\algoritmosyestructuras1\pilaycolacaseras\colacasera\colacasera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
